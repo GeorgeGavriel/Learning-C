@@ -1,0 +1,8 @@
+John 85
+Maria 92
+Alex 67
+Sofia 78
+Daniel 95
+Emma 73
+George 88
+Anna 51
