@@ -1,0 +1,4 @@
+Laptop 899.99 5
+Webcam 59.99 4
+Printer 179.50 3
+Speaker 89.95 2

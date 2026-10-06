@@ -1,0 +1,10 @@
+Laptop 899.99 5
+Mouse 24.50 20
+Keyboard 49.99 12
+Monitor 249.99 7
+Headphones 79.90 15
+Webcam 59.99 4
+Printer 179.50 3
+USBDrive 14.99 30
+Tablet 329.99 6
+Speaker 89.95 2
