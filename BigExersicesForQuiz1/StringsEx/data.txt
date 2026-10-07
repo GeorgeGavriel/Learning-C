@@ -1,0 +1,4 @@
+C_Language 85 92 78
+Pointers_and_Memory 45 60 50
+Strings_and_Files 90 95 100
+Arrays_in_C 30 40 35

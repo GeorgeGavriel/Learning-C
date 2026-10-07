@@ -1,0 +1,12 @@
+--- STATISTICS ---
+ Short words (<= 5): 1
+ Long words (> 5):  7
+--- REVERSED WORDS ---
+elppA
+gnimmargorp
+egaugnal_C
+retnioP
+gnirtS
+oi_elif
+noisrucer
+yromeM

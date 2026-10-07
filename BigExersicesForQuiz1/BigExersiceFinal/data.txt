@@ -1,0 +1,8 @@
+Apple
+programming
+C_language
+Pointer
+String
+file_io
+recursion
+Memory
